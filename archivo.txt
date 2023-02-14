@@ -1,0 +1,3 @@
+Esto se escribe en el archivo
+y esto eb la linea siguiente 
+			y esto en otra linea tabulado
